@@ -22,7 +22,7 @@ struct contact{
     char *adresaEmail[50];
 };
 
-struct contact listaContacte[50];
+struct contact listaContacte[100];
 int k = 0;
 void Menu(){
     int x = 1;
